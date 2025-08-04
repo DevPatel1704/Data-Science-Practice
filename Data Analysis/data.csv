@@ -1,0 +1,9 @@
+Name,Age,Department,Salary,Join_Date
+Alice,25.0,HR,50000.0,2015-03-01
+Bob,30.0,IT,60000.0,2016-07-15
+Charlie,,Finance,55000.0,2017-10-30
+David,40.0,,,2018-12-12
+Eva,22.0,IT,62000.0,
+Frank,28.0,Marketing,58000.0,2020-09-18
+Grace,,HR,,2021-11-01
+Helen,35.0,Finance,61000.0,2019-06-25
