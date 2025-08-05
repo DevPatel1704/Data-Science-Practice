@@ -1,0 +1,6 @@
+2025-08-05  17:52:13-ArithmaticApp-DEBUG-Adding 10+13 = 23
+2025-08-05  17:52:13-ArithmaticApp-DEBUG-Subtracting 10-5 = 5
+2025-08-05  17:52:13-ArithmaticApp-DEBUG-Adding 10/5 = 2.0
+2025-08-05  17:53:01-ArithmaticApp-DEBUG-Adding 10+13 = 23
+2025-08-05  17:53:01-ArithmaticApp-DEBUG-Subtracting 10-5 = 5
+2025-08-05  17:53:01-ArithmaticApp-ERROR-Division by zero error
