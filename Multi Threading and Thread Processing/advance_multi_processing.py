@@ -1,0 +1,16 @@
+from concurrent.futures import ProcessPoolExecutor
+import time
+
+def sqr_num(num):
+    time.sleep(1)
+    return f"Square : {num * num}"
+
+nums = [1,2,3,4,5,6,7]
+
+
+if __name__ == "__main__":
+    with ProcessPoolExecutor(max_workers=3) as executor:
+        results=executor.map(sqr_num,nums)
+        
+    for result in results:
+        print(result)
