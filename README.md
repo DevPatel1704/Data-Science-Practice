@@ -9,10 +9,10 @@ This repository contains my hands-on practice, learning exercises, and mini-proj
 The repository includes notebooks and scripts related to:
 
 - 🧹 Data Cleaning & Preprocessing
-- 📊 Exploratory Data Analysis (EDA)
+- 📊 Exploratory Data Analysis (EDA) (Coming soon...)
 - 📈 Data Visualization (Matplotlib, Seaborn, Plotly)
-- 🤖 Machine Learning (Scikit-Learn)
-- 🔍 Feature Engineering
+- 🤖 Machine Learning (Scikit-Learn) (Coming soon...)
+- 🔍 Feature Engineering (Coming soon...)
 - 🧠 Deep Learning (Coming soon...)
 - 📁 Web Scraping (BeautifulSoup, Requests)
 - 🗂️ Projects & Case Studies
