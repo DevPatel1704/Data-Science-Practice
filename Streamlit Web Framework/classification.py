@@ -46,6 +46,11 @@ input_data = [[sepal_length, sepal_width, petal_length, petal_width]]
 # Prediction
 prediction = model.predict(input_data)
 predicted_species = target_name[prediction[0]]
+prediction_proba = model.predict_proba(input_data)
 
 st.write("Prediction")
 st.write(f"The predicted species is : {predicted_species}")
+
+st.subheader("Prediction Probability")
+for species, prob in zip(target_name, prediction_proba[0]):
+    st.write(f"{species}: {prob:.2f}")
