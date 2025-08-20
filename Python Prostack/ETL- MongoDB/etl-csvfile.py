@@ -11,6 +11,7 @@ for user in users:
 
 print(new_users)
 
+# Load the data 
 fp = None
 
 try:
