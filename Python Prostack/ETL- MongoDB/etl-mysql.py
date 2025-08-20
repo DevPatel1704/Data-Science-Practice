@@ -9,7 +9,11 @@ users = res_data.json()
 new_users = []
 
 for user in users:
-    new_users.append((user['id'],user['username'],user['email'],user['address']['city'],user['phone']))
+    new_users.append((user['id'],
+                      user['username'],
+                      user['email'],
+                      user['address']['city'],
+                      user['phone']))
   
   
 
